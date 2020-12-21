@@ -1,0 +1,9 @@
+.git
+.Java
+.JETEmitters
+**/temp
+**/code/routines/system
+**/sqlPatterns
+**/process/*.screenshot
+/recycle_bin.index
+talend.project
